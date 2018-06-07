@@ -1,4 +1,3 @@
 <?php
-	echo 'Hello: This is changed'
-		echo 'This too'
+	echo 'Hello: This is changed. Changes'
 ?>
